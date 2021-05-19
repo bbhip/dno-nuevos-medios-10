@@ -1,14 +1,14 @@
 function primeraRevista() {
-    document.getElementsByTagName("body")[0].style.background = "#D34145";
+    document.getElementsByTagName("body")[0].style.background = "#fae08e";
 }
 function segundaRevista() {
-    document.getElementsByTagName("body")[0].style.background = "#5790A3";
+    document.getElementsByTagName("body")[0].style.background = "#aec453";
 }
 function terceraRevista() {
-    document.getElementsByTagName("body")[0].style.background = "#6A5D9C";
+    document.getElementsByTagName("body")[0].style.background = "#a984b7";
 }
 function cuartaRevista() {
-    document.getElementsByTagName("body")[0].style.background = "#117C60";
+    document.getElementsByTagName("body")[0].style.background = "#96b2c1";
 }
 function nada() {
     document.getElementsByTagName("body")[0].style.background = "#222";
